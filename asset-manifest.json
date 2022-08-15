@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "./static/css/main.99f06893.chunk.css",
-    "main.js": "./static/js/main.e006f25a.chunk.js",
-    "main.js.map": "./static/js/main.e006f25a.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.a8644691.js",
-    "runtime-main.js.map": "./static/js/runtime-main.a8644691.js.map",
-    "static/js/2.d288c1c3.chunk.js": "./static/js/2.d288c1c3.chunk.js",
-    "static/js/2.d288c1c3.chunk.js.map": "./static/js/2.d288c1c3.chunk.js.map",
-    "static/js/3.864b756e.chunk.js": "./static/js/3.864b756e.chunk.js",
-    "static/js/3.864b756e.chunk.js.map": "./static/js/3.864b756e.chunk.js.map",
+    "main.js": "./static/js/main.d6a678d9.chunk.js",
+    "main.js.map": "./static/js/main.d6a678d9.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a25b05f6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a25b05f6.js.map",
+    "static/js/2.f258ff9a.chunk.js": "./static/js/2.f258ff9a.chunk.js",
+    "static/js/2.f258ff9a.chunk.js.map": "./static/js/2.f258ff9a.chunk.js.map",
+    "static/js/3.281a5a88.chunk.js": "./static/js/3.281a5a88.chunk.js",
+    "static/js/3.281a5a88.chunk.js.map": "./static/js/3.281a5a88.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.99f06893.chunk.css.map": "./static/css/main.99f06893.chunk.css.map",
-    "static/js/2.d288c1c3.chunk.js.LICENSE.txt": "./static/js/2.d288c1c3.chunk.js.LICENSE.txt",
+    "static/js/2.f258ff9a.chunk.js.LICENSE.txt": "./static/js/2.f258ff9a.chunk.js.LICENSE.txt",
     "static/media/DeFi Land_icon@2x.png": "./static/media/DeFi Land_icon@2x.9ae403b4.png",
     "static/media/VeChain_icon@2x.png": "./static/media/VeChain_icon@2x.43dc01a0.png",
     "static/media/bowled.svg": "./static/media/bowled.9b0396a4.svg",
     "static/media/dequest.svg": "./static/media/dequest.54aad9ac.svg",
+    "static/media/insrt.svg": "./static/media/insrt.214feda7.svg",
+    "static/media/material10.jpg": "./static/media/material10.0ffc6fb6.jpg",
     "static/media/nsure_icon@2x.png": "./static/media/nsure_icon@2x.0026d9b0.png",
     "static/media/op games_icon@2x.png": "./static/media/op games_icon@2x.501f7e46.png",
     "static/media/pebble.svg": "./static/media/pebble.b521a4ba.svg",
@@ -24,15 +26,16 @@
     "static/media/sentiment.png": "./static/media/sentiment.43e89231.png",
     "static/media/squarespace.png": "./static/media/squarespace.3ab4e66a.png",
     "static/media/svg_logo.ffac4711.png": "./static/media/svg_logo.ffac4711.png",
+    "static/media/techflow520.png": "./static/media/techflow520.205596ba.png",
     "static/media/thali dao_icon_old.png": "./static/media/thali dao_icon_old.7432a307.png",
     "static/media/titan_icon@2x.png": "./static/media/titan_icon@2x.cc95161a.png",
     "static/media/unlockd.png": "./static/media/unlockd.91324cea.png",
     "static/media/voide.mp4": "./static/media/voide.6a3a1e99.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8644691.js",
-    "static/js/2.d288c1c3.chunk.js",
+    "static/js/runtime-main.a25b05f6.js",
+    "static/js/2.f258ff9a.chunk.js",
     "static/css/main.99f06893.chunk.css",
-    "static/js/main.e006f25a.chunk.js"
+    "static/js/main.d6a678d9.chunk.js"
   ]
 }
